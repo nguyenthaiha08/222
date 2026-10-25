@@ -1,0 +1,6 @@
+{
+  "name": "NanoFlow Studio - Batch AI Image Generator",
+  "description": "Tạo ảnh hàng loạt từ các file văn bản prompt với mô hình Google Nano Banana 2.1, hỗ trợ chỉnh sửa file text trực tiếp trên giao diện.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
